@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/P7-Dev-Web-livres/static/css/main.aefc5a44.css",
-    "main.js": "/P7-Dev-Web-livres/static/js/main.64c33cea.js",
+    "main.js": "/P7-Dev-Web-livres/static/js/main.15b88e3c.js",
     "static/js/787.2c0e5b38.chunk.js": "/P7-Dev-Web-livres/static/js/787.2c0e5b38.chunk.js",
     "static/media/home_banner.jpg": "/P7-Dev-Web-livres/static/media/home_banner.e160219c56381f5d72be.jpg",
     "static/media/book_delete.png": "/P7-Dev-Web-livres/static/media/book_delete.f0aec92a2dde895664ec.png",
@@ -10,11 +10,11 @@
     "static/media/map_footer.png": "/P7-Dev-Web-livres/static/media/map_footer.a4eb4130dd9828775917.png",
     "index.html": "/P7-Dev-Web-livres/index.html",
     "main.aefc5a44.css.map": "/P7-Dev-Web-livres/static/css/main.aefc5a44.css.map",
-    "main.64c33cea.js.map": "/P7-Dev-Web-livres/static/js/main.64c33cea.js.map",
+    "main.15b88e3c.js.map": "/P7-Dev-Web-livres/static/js/main.15b88e3c.js.map",
     "787.2c0e5b38.chunk.js.map": "/P7-Dev-Web-livres/static/js/787.2c0e5b38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aefc5a44.css",
-    "static/js/main.64c33cea.js"
+    "static/js/main.15b88e3c.js"
   ]
 }
