@@ -34,7 +34,7 @@ function AddBook() {
             <h1>Merci!</h1>
             <p>votre livre a bien été publié</p>
             <img src={bookAdd} alt="Livre ajouté" />
-            <Link to="/" className="button">Retour à l&apos;accueil</Link>
+            <Link to="/P7-Dev-Web-livres" className="button">Retour à l&apos;accueil</Link>
           </div>
 
         )}
