@@ -63,7 +63,7 @@ function BookForm({ book, validate }) {
     } else {
       const updatedBook = await updateBook(data, data.id);
       if (!updatedBook.error) {
-        navigate('/');
+        navigate('/P7-Dev-Web-livres');
       } else {
         alert(updatedBook.message);
       }

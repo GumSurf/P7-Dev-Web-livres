@@ -36,7 +36,7 @@ function SignIn({ setUser }) {
       } else {
         storeInLocalStorage(response.data.token, response.data.userId);
         setUser(response.data);
-        navigate('/');
+        navigate('/P7-Dev-Web-livres');
       }
     } catch (err) {
       console.log(err);

@@ -10,7 +10,7 @@ function Header({ user, setUser }) {
   const disconnect = () => {
     localStorage.clear();
     setUser(null);
-    navigate('/');
+    navigate('/P7-Dev-Web-livres');
   };
 
   return (
